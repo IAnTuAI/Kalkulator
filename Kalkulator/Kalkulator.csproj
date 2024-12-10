@@ -42,6 +42,7 @@
     <ItemGroup>
         <Compile Include="Kalkulator_Dodaj.cs" />
         <Compile Include="Kalkulator_Mnoz.cs" />
+        <Compile Include="Kalkulator_Odejmij.cs" />
         <Compile Include="Program.cs"/>
         <Compile Include="Properties\AssemblyInfo.cs"/>
     </ItemGroup>
