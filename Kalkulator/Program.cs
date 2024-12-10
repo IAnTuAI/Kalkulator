@@ -11,7 +11,10 @@ namespace Kalkulator
             int b = kalkulator.Dodaj(1, 2);
             int c = kalkulator.Dziel(4, 2);
             int d = kalkulator.Odejmij(1, 2);
-            Console.WriteLine("Mnozenie: "+ a + ", Dodaj: " + b  + ", Dziel: "+ c + ", Odejmowanie: " + d);
+            Console.WriteLine("Wynik mnożenia: " + a + "");
+            Console.WriteLine("Wynik dodawania: " + b + "");
+            Console.WriteLine("Wynik dzielenia: " + c + "");
+            Console.WriteLine("Wynik dodawania: " + d + "");
         }
     }
 }
