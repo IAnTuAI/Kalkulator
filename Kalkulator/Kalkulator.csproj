@@ -41,6 +41,7 @@
     </ItemGroup>
     <ItemGroup>
         <Compile Include="Kalkulator_Dodaj.cs" />
+        <Compile Include="Kalkulator_Dzielenie.cs" />
         <Compile Include="Kalkulator_Mnoz.cs" />
         <Compile Include="Kalkulator_Odejmij.cs" />
         <Compile Include="Program.cs"/>
