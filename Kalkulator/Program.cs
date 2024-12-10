@@ -14,7 +14,7 @@ namespace Kalkulator
             Console.WriteLine("Wynik mnożenia: " + a + "");
             Console.WriteLine("Wynik dodawania: " + b + "");
             Console.WriteLine("Wynik dzielenia: " + c + "");
-            Console.WriteLine("Wynik dodawania: " + d + "");
+            Console.WriteLine("Wynik odejmowania: " + d + "");
         }
     }
 }
