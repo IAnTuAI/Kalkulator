@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Kalkulator
 {
-    internal class Kalkulator_Dzielenie
+    public partial class Kalkulator
     {
-        public int Mnoz(int x, int y)
+        public int Dziel(int x, int y)
         {
             return x / y;
         }
