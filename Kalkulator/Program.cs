@@ -9,7 +9,9 @@ namespace Kalkulator
             Kalkulator kalkulator = new Kalkulator();
             int a = kalkulator.Mnoz(1, 2);
             int b = kalkulator.Dodaj(1, 2);
-            Console.WriteLine(a + " " + b);
+            int c = kalkulator.Dziel(4, 2);
+            int d = kalkulator.Odejmij(1, 2);
+            Console.WriteLine("Mnozenie: "a + ", Dodaj: " + b  + ", Dziel: "+ c + ", Odejmowanie: " + d);
         }
     }
 }
