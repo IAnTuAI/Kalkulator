@@ -6,5 +6,6 @@ namespace Kalkulator
         {
             return a - b;
         }
+        //comit 2
     }
 }
